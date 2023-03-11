@@ -1,0 +1,4 @@
+RDS: http://udacityfinaludagram.s3-website-us-east-1.amazonaws.com 
+EB: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
+S3: http://udacityfinaludagram1.s3-website-us-east-1.amazonaws.com/
+
